@@ -9,10 +9,14 @@ This is the first and only *individual* (as opposed to *team*) this semester.
 
 Term: Fall 2020
 
-+ Projec title: Lorem ipsum dolor sit amet
-+ This project is conducted by [your name]
++ Projec title: A "data story" on how Americans vote
++ This project is conducted by Xujie Ma (xm2243)
 
-+ Project summary: [a short summary] Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
++ Project summary: Throughout the EDA, I mainly found four points about how Americans vote.
+1) More than half of voters decided to vote the way they did during or before conventions.
+2) It seems that black people had a larger fraction who always voted for same party. The timing of white people to make voting decisions was relatively evenly distributed.
+3) Generally, people with low level of education tended to vote for Democrat while people well educated tended to vote for Republican.
+4) People with high income were more likely to vote for Republican while people with low income were more likely to vote for Democrat.
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
