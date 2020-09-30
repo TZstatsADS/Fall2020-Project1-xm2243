@@ -1,9 +1,9 @@
 ---
 title: "A simple R Notebook for exploring the ANES cumulative time series data"
 output:
+  pdf_document: default
   html_document:
     df_print: paged
-  pdf_document: default
 ---
 This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. 
 
